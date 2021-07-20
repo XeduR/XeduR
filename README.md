@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! 👋
+
+As usual, I'll see about finishing writing this README once I have some time. :smile:
 
 <!--
 **XeduR/XeduR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
